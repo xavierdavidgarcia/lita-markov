@@ -15,7 +15,7 @@ Gem::Specification.new do |spec|
 
   spec.add_runtime_dependency "lita",   ">= 4.6"
   spec.add_runtime_dependency "sequel", "~> 4.28.0"
-  spec.add_runtime_dependency "oj",     "~> 2.13.1"
+  spec.add_runtime_dependency "oj",     "~> 2.4.0"
 
   spec.add_development_dependency "bundler", "~> 1.3"
   spec.add_development_dependency "rspec",   "~> 3.0"
